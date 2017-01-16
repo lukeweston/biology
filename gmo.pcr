@@ -1,0 +1,10 @@
+Lid: 95
+Title: GMO Explorer
+Note: Bio-Rad GMO Explorer kit (detects common GMO crop promoters)
+
+120s @ 94C Denature
+x40:
+  60s @ 94C Denature
+  60s @ 59C Annealing
+  120s @ 72C Extension
+600s @ 72C Extension

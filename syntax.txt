@@ -1,0 +1,4 @@
+./openpcr.py -m /media/luke/OPENPCR send -p rbcl.pcr
+
+Replace luke with whatever your username is.
+OPENPCR basically appears as a weird USB mass storage filesystem in /media that erases itself every time you plug it in.

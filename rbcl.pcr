@@ -1,0 +1,10 @@
+Lid: 95
+Title: rbcL (Plant)
+Note: Rubisco large subunit, for plant genotyping.
+
+300s @ 95C Hot Start
+x30:
+  30s @ 95C Denature
+  30s @ 55C Annealing
+  30s @ 72C Extension
+600s @ 72C Extension
